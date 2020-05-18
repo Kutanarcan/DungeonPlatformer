@@ -1,7 +1,7 @@
 # DungeonPlatformer
 This project is a demo. I build this project to understand more complex systems and combine them together.
 
-*-*Currently Active Systems*-*
+*-*Currently Active Systems*-
 -Player(Connector(Controller),Movement,Input,AnimationController,Attack,Skills,SaveController,Key Holder etc.)
 -Player Special Attack System(Needs Some Work)
 -Player Skill System(Need Visual System)
@@ -30,7 +30,7 @@ This project is a demo. I build this project to understand more complex systems 
 -Input Control System
 -Option Menu-Settings Manager(Resolution, Music, SFX,Quality Settings)
 
-*-*Will Add*-*
+*-*Will Add*-
 -Choice Manager : Boss fight is going to give the Player an option, player will choose one of them and the result will effect the end of the game.
 -Character Selection System
 -Game Currency
@@ -39,7 +39,7 @@ This project is a demo. I build this project to understand more complex systems 
 -Item Drop system
 -Collectible Items will Add to the game(Ready)
 
-*-*System Fixes Need*-*
+*-*System Fixes Need*-
 -Level System need work. 
 -Special Attack Manager has so many dependencies.
 -Fade Manager is not Flexible
