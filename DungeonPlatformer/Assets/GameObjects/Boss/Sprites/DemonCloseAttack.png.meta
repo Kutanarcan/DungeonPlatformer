@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: d394608f38b5f784b92a75a197d98c09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8312424741005121618
+    second: DemonCloseAttack_0
+  - first:
+      213: -8816504700989583749
+    second: DemonCloseAttack_1
+  - first:
+      213: 2031617264218783283
+    second: DemonCloseAttack_2
+  - first:
+      213: -3698708076364697791
+    second: DemonCloseAttack_3
+  - first:
+      213: -149640760185984538
+    second: DemonCloseAttack_4
+  - first:
+      213: -2880039131929005892
+    second: DemonCloseAttack_5
+  - first:
+      213: 3760769850165061108
+    second: DemonCloseAttack_6
+  - first:
+      213: -2360854450466698486
+    second: DemonCloseAttack_7
+  - first:
+      213: 8046436923106920303
+    second: DemonCloseAttack_8
+  - first:
+      213: 4369102618649409423
+    second: DemonCloseAttack_9
+  - first:
+      213: -9153849418230727403
+    second: DemonCloseAttack_10
+  - first:
+      213: 3026396914618327013
+    second: DemonCloseAttack_11
+  - first:
+      213: -69866608335991376
+    second: DemonCloseAttack_12
+  - first:
+      213: 2384632069826040154
+    second: DemonCloseAttack_13
+  - first:
+      213: 8935279490446249369
+    second: DemonCloseAttack_14
+  - first:
+      213: 7672897199204656743
+    second: DemonCloseAttack_15
+  - first:
+      213: -8900517173022826575
+    second: DemonCloseAttack_16
+  - first:
+      213: 5806781895217163311
+    second: DemonCloseAttack_17
+  - first:
+      213: 2164465538088066306
+    second: DemonCloseAttack_18
+  - first:
+      213: 2683313618453520427
+    second: DemonCloseAttack_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DemonCloseAttack_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 137
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a83a3db554ac80800000000000000
+      internalID: -8312424741005121618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 30
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e44f0bfab75a580800000000000000
+      internalID: -8816504700989583749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 32
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ebf494321c13c10800000000000000
+      internalID: 2031617264218783283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_3
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 24
+        width: 150
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe964e99c8bacc0800000000000000
+      internalID: -3698708076364697791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 27
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e13d758e5cedf0800000000000000
+      internalID: -149640760185984538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 26
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0b52a2bab0808d0800000000000000
+      internalID: -2880039131929005892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 22
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f56619d040f03430800000000000000
+      internalID: 3760769850165061108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 10
+        width: 199
+        height: 169
+      alignment: 9
+      pivot: {x: 0.65411836, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b4889b26f8c3fd0800000000000000
+      internalID: -2360854450466698486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 9
+        width: 202
+        height: 172
+      alignment: 9
+      pivot: {x: 0.662675, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67006defbfaaaf60800000000000000
+      internalID: 8046436923106920303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_9
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 10
+        width: 194
+        height: 169
+      alignment: 9
+      pivot: {x: 0.641151, y: 0.4870373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b3d3eeab22ac30800000000000000
+      internalID: 4369102618649409423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DemonCloseAttack_13
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 10
+        width: 194
+        height: 169
+      alignment: 9
+      pivot: {x: 0.6411523, y: 0.49351862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515cf1bb3ae71120800000000000000
+      internalID: 2384632069826040154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

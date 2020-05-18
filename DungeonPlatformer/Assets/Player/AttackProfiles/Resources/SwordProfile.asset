@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2485c6c321fa810488697bb05ee3162a, type: 3}
+  m_Name: SwordProfile
+  m_EditorClassIdentifier: 
+  damage: 10
+  cooldown: 1.5
+  prefab: {fileID: 3082934020626994027, guid: 28589fa6e15630e42ae00512ba070dd5, type: 3}
+  normalAttackType: 0

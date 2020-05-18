@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7771d76036c1ef43bbd8bf22b35ebc1, type: 3}
+  m_Name: DemonsConversation
+  m_EditorClassIdentifier: 
+  conversations:
+  - speaker: {fileID: 11400000, guid: c737d63c716366f4086eed0d17973617, type: 2}
+    dialog: Blue
+  - speaker: {fileID: 11400000, guid: 57138d241ae50044caf7676fbcdc02dc, type: 2}
+    dialog: Red
+  - speaker: {fileID: 11400000, guid: c737d63c716366f4086eed0d17973617, type: 2}
+    dialog: Blue
